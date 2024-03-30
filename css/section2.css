@@ -1,0 +1,259 @@
+.down{
+    width: 100vw;
+    display: block;
+    height: 800px;
+
+    position: relative;
+    padding: 0;
+    margin: 0;
+    
+    }
+
+
+
+
+.our{
+    position: absolute;
+    top: 90px;
+    left: 785px;
+    font-weight: bold;
+    font-size: 30px;
+}
+.offer{
+    position: absolute;
+    top: 90px;
+    left: 850px;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(55,141,174,255);
+
+}
+.part{
+    position: absolute;
+    top: 140px;
+    left: 510px;
+    font-size: 13px;
+}
+.par{
+    position: absolute;
+    top: 170px;
+    left: 700px;
+    font-size: 13px;    
+}
+
+
+   
+   figure img{
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  align-items: center;
+  border-radius: 25px;
+  position: absolute;
+  top: 10px;
+  left: 80px;
+  border: 10px solid whitesmoke;
+
+  }
+  
+   .conteido {
+    
+    text-align: center;
+    
+}
+.conteido p.slide{
+
+    
+     position: absolute;
+     left: 5px;
+     top:130px;
+     bottom: 150px;
+     height: 100px;
+     width: 250px;
+     padding-left: auto;
+     font-size: 13px;  
+     
+     
+     
+    
+      
+
+
+  }
+  .conteido h3{
+    font-weight: 400px;
+    margin-bottom: 15px;
+    position: absolute;
+    top:90px;
+    left: 80px;
+  }
+  /*---------------*/
+  .card{
+    width: 255px;
+   
+   border-radius: 6px;
+   
+    box-shadow: 0px 1px 10px rgba(0,0,0, 2);
+    cursor: default;
+    position: absolute;
+    right: 480px;
+    height:260px;
+    top: 220px;
+}
+  .card1{
+    width: 255px;
+   
+   border-radius: 6px;
+   
+    box-shadow: 0px 1px 10px rgba(0,0,0, 2);
+    cursor: default;
+    position: absolute;
+    right: 200px;
+    height:260px;
+    top: 220px;
+    
+}
+.card2{
+    width: 255px;
+   
+   border-radius: 6px;
+   
+    box-shadow: 0px 1px 10px rgba(0,0,0, 2);
+    cursor: default;
+    position: absolute;
+    
+    height:260px;
+    top: 220px;
+    
+    left: 230px;
+    
+}
+.card3{
+    width: 255px;
+   
+   border-radius: 6px;
+   
+    box-shadow: 0px 1px 10px rgba(0,0,0, 2);
+    cursor: default;
+    position: absolute;
+    right:0px;
+    height:260px;
+    top: 220px;
+    left: 510px;
+    
+}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#fir{
+    margin-left :350px;
+}
+
+#slid{
+    background-color: rgba(55,141,174,255);
+}
+.sli{
+    color: #fff;
+}
+#slu{
+    color: #fff;
+}
+
+
+
+.block{
+    background-color: rgba(55,141,174,255);
+    height: 180px;
+    width: 460px;
+    position: relative;
+    display: flex;
+    text-align: center;
+    bottom: 60px;
+    left: 10px;
+    
+}
+div.image{
+    position: absolute;
+    background-image:url(../image/villa.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    width: 100%;
+    justify-content: center;
+    height: 200px;
+    background-attachment: fixed;
+    bottom: 0px;
+
+}
+div.block p{
+position: absolute;
+top: 50px;
+left:30px;
+color: #fff;
+width: 430px;
+height: 20px;
+font-size: 13px;
+text-align: left;
+
+}
+button.butto{
+    width: 150px;
+    text-align: center;
+    position: absolute;
+    border-radius: 25px;
+    cursor: pointer;
+    margin: 20px 10px;
+    font-weight: bold;
+    height: 40px;
+    background-color: #ffffff;
+    border-width: 0px;
+    top: 90px;
+    left: 15px;
+}
+div.block h4{
+    color:white;
+    position: absolute;
+    top: 15px;
+    left: 30px;
+    font-size:19px;
+}
